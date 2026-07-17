@@ -23,18 +23,19 @@ A lo largo de mi carrera siempre he creado soluciones a medida (desde automatiza
 ---
 
 ### 📈 Mis Estadísticas de GitHub
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rantamplan76&rank_icon=percentile&custom_title=Rantamplan76%20github%20stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=rantamplan76&rank_icon=percentile&custom_title=Rantamplan76%20github%20stats&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-![Stats de GitHub](https://github-readme-stats-extended.vercel.app/api?username=rantamplan76&show_icons=true&theme=react&hide_border=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rantamplan76&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=rantamplan76&langs_count=6&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=rantamplan76&layout=compact&theme=react&hide_border=true)
 ---
 
 ### 📫 Conectemos
-- 💼 LinkedIn: [Enlace a tu perfil de LinkedIn]
-- 📧 Email: [Tu correo electrónico]<!--
-**rantamplan76/rantamplan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 💼 LinkedIn: [Enlace a tu perfil de LinkedIn]
+- 📧 Email: [Tu correo electrónico]
 
 <!--
+**rantamplan76/rantamplan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
